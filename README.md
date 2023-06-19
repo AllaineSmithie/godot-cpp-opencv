@@ -1,5 +1,6 @@
 # Using OpenCV C++ code with Godot 4 as module
-[Forked from](https://github.com/mgpadalkar/godot-cpp-opencv)
+[Forked from mgpadalkar](https://github.com/mgpadalkar/godot-cpp-opencv)
+
 Godot example with C++ and OpenCV functions in godot.   
 
 Purpose:   
