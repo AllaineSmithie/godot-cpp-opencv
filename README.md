@@ -19,8 +19,9 @@ Referred from: [https://docs.godotengine.org/en/3.5/tutorials/scripting/gdnative
 
 ## Clone Recursive
 ```bash
-git clone --recursive https://github.com/mgpadalkar/godot-cpp-opencv.git
+git clone --recursive https://github.com/AllainSmithie/godot-cpp-opencv.git
 cd godot-cpp-opencv
+git checkout godot4.x-module
 # git submodule update --init --recursive
 ```
 
